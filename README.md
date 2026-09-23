@@ -4,6 +4,9 @@ Pasta destinada à documentação do projeto **AV-CAR** (Projeto Integrador SENA
 
 ## Conteúdo
 
+* `API_AV-CAR.md` — documentação da API REST (endpoints, parâmetros, exemplos)
+* `Requisitos/ERS_AV-CAR.docx` — especificação de requisitos
+
 Em produção. Documentos previstos/possíveis:
 
 * Diagramas de arquitetura e de classes
