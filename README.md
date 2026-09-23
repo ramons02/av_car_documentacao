@@ -1,4 +1,4 @@
-# av_car_documentacao — Documentação
+# av_car_documentacao: Documentação
 
 Pasta destinada à documentação do projeto **AV-CAR** (Projeto Integrador SENAI FATESG).
 
@@ -18,5 +18,5 @@ Em produção. Documentos previstos/possíveis:
 | Módulo            | Pasta            |
 |-------------------|------------------|
 | Frontend (Swing)  | `av_car_app`     |
-| Backend           | `av_car-api`     |
+| Backend           | `av_car_api`     |
 | Variáveis de env. | `av_car_infra`   |
